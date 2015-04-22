@@ -2,7 +2,7 @@ Strackovski Gallery iOS App
 =========
 Gallery app for art content and email subscription, written for the iPhone. This project is under development. 
 
-![Screens](http://www.envee.eu/projects/feats/ssg-git-feat.gif)
+![Screens](http://www.envee.eu/projects/feats/ssg-ios-git-feat.gif)
 
 Todo
 ----
